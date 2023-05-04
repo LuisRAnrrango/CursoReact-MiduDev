@@ -18,7 +18,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-      Creación de la aplicación con Vite
+      Creación de la aplicación con Vite UPDATE
       </p>
     </>
   );
